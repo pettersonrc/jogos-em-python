@@ -1,2 +1,2 @@
-# jogos-em-python
- 
+# Jogos em Python
+Jogos simples feitos em Python por mim.
